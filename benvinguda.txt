@@ -1,2 +1,4 @@
+(A) Benvingut a la branca 01 CarlosSoler
 (B) Modificació 01 Main CarlosSoler
 (D) Modificació 02 Main CarlosSoler
+(E) Afegim imatge a branca 01
