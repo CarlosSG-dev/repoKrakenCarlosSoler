@@ -3,3 +3,4 @@
 (C) Benvinguda a la branca 02 Carlos Soler
 (D) Modificació 02 Main CarlosSoler
 (E) Afegim imatge a branca 01
+(F) Afegim imatge a branca 02
